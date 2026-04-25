@@ -104,7 +104,6 @@ Vi dokumenterede ikke en leder. Vi henrettede en skygge.
 - [Henriette Bro Andersen Sambleben — Datakriminalitet hos MedAssist & STPK](https://henriette-sambleben-medassist.blogspot.com/2026/03/dokumentation-statens-sagkyndige-stpk.html)
 - [Christine Børrum & Datatilsynet — Et Systemkollaps](https://christine-boerrum-datatilsynet.blogspot.com)
 - [GitHub: MedAssist Henriette Sambleben STPK Skandale](https://0x7e4b92.github.io/medassist-henriette-sambleben-stpk-skandale/)
-- [GitHub: Datatilsynet MedAssist Inkompetence](https://0x7e4b92.github.io/datatilsynet-medassist-inkompetence/)
 - [Google Sites: Henriette Sambleben MedAssist](https://sites.google.com/view/henriette-sambleben-medassist/start)
 - [Arkiveret bevis — MedAssist slogan (pikwy.com)](https://pikwy.com/web/69a68089a11415624d5d5807)
 
